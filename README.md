@@ -15,3 +15,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua1A&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaua1A&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+![Snake animation](https://github.com/Kaua1A/Kaua1A/blob/output/github-contribution-grid-snake.svg)

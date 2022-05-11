@@ -2,8 +2,13 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 #### *O lar de uma programação precária.*
+#
+## Línguagens de programação que atualmente sei:
+### • Lua
+### •
+### •
 
-
+#
 
 ## <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 

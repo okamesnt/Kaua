@@ -3,7 +3,7 @@
 
 #### *O lar de uma programação precária.*
 #
-## Línguagens de programação que atualmente sei:
+### Línguagens de programação que atualmente sei:
 ### • Lua
 ### •
 ### •

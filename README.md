@@ -1,7 +1,7 @@
 ## Olá! Me chamo Kauã ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-### *O lar de uma programação precária.*
+#### *O lar de uma programação precária.*
 
 
 
